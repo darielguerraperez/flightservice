@@ -1,0 +1,40 @@
+
+
+h1 { 
+    color:white;
+    text-align: center;
+    font-family: "Courier New";
+}
+
+
+.creatflightspage {
+    background-image: url("./picturecreateflight.jpg");
+    color:white;
+    text-align: center;
+    height: 400px;
+    width: 400px; 
+    margin-right: 50px;   
+}
+
+.findflightspage {
+    background-image: url("./picturefindflight.jpg");
+    color:white;
+    text-align: center;
+    height: 400px;
+    width: 400px;    
+}
+
+h3 {
+ 
+   margin-top: 50px;
+
+}
+.container {
+    display: flex;
+    /*background-color: gray;*/
+    justify-content: space-evenly;
+    align-items: center;
+    /*height: 50vh;*/
+}
+
+html {background-color: rgb(45, 45, 45)}

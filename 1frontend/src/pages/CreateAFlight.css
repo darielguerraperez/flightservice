@@ -1,0 +1,49 @@
+
+title { 
+    text-align: center;
+}
+
+.MyForm {
+    justify-content: center;
+    padding-left: 50px;
+    border-style: solid;
+    border: 5px solid rgb(0, 0, 0);
+
+    background-color: rgb(26, 160, 178);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+    gap: 10;
+}
+
+.flightnumber-label {    
+     margin-top: 20px;
+}
+
+.departuredate-label {
+    margin-bottom: 20px;
+}
+
+.item {
+    margin-top: 70px;
+    margin-left: 40px;
+    margin-right: 40px;
+   
+    align-items: center;
+    justify-content: center;
+    color:white;
+    font-size: 20px;
+    height: 3em; /* 3 times the height of font-size. AKA 90px height */
+}
+
+.add {
+    height: 25px;
+    width: 150px;
+    margin-top: 180px;
+    margin-right: 2000px;
+    margin-bottom: 50px;
+    color: rgb(52, 80, 172);
+    font-weight: bold;
+}

@@ -1,0 +1,35 @@
+.dark {background-color: rgb(45, 45, 45)}
+
+.grid {   
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    background-color: rgb(45, 45, 45);
+}
+
+.flightnumber {
+    margin-bottom: 50px;
+    font-size: 24px;
+    font-family: "Franklin Gothic Medium";
+    text-align: center;
+    background-color: rgb(45, 45, 45)
+}
+
+
+
+.tile {
+    border: 5px solid rgb(26, 160, 178);
+    color:white;
+    text-align: left;
+    font-family: "Century Gothic";
+    padding: 50px;
+    margin: 20px;
+    background-color: rgb(45, 45, 45)
+    }
+
+    .buttons {
+        color:white;
+        margin-top: 50px;
+        margin-left: 70px;
+        background-color: rgb(255, 255, 255);
+    }
+
